@@ -41,3 +41,7 @@ especializados.
 - CrewAI como comparación.
 - AutoGen como comparación.
 - PydanticAI como comparación.
+
+## Estado del proyecto
+
+Prototipo inicial
